@@ -1,0 +1,10 @@
+.search-box {
+    border: 2px solid rgb(53, 0, 88);
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.582);
+    outline: none;
+    padding: 1rem;
+    max-width: 15rem;
+    line-height: 1rem;
+    margin: 3rem 0 3rem 0;
+}
