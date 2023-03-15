@@ -7,10 +7,10 @@
 - sepperating components into respective files and folders
 - styling using CSS
 ## Screenshots
-this design is not responsive/ compatible on devces other than desktop
+this design is not responsive/ compatible on devices other than desktop
 ### Full application
-![Image of fullscreen application](monster-rolodex-ztm/public/assets/full-screen.jpg)
+![Image of fullscreen application](monster-rolodex-ztm/public/assets/full-screen.JPG)
 ### Fixed header
-![Image of fixed header](monster-rolodex-ztm/public/assets/fixed-header.jpg)
+![Image of fixed header](monster-rolodex-ztm/public/assets/fixed-header.JPG)
 ### Search function
-![Image of search](monster-rolodex-ztm/public/assets/search.jpg)
+![Image of search](monster-rolodex-ztm/public/assets/search.JPG)
