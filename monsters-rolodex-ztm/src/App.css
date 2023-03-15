@@ -28,6 +28,7 @@ body {
   height: 9.5rem;
   width: 100%;
   padding: .5rem 2rem 0 2rem;
+  box-shadow: 4px 4px 10px rgb(83, 223, 241);
 }
 
 .heading {
