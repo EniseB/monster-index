@@ -9,8 +9,8 @@
 ## Screenshots
 this design is not responsive/ compatible on devces other than desktop
 ### Full application
-![Image of fullscreen application](monster-rolodex-ztm/assets/full-screen.jpg)
+![Image of fullscreen application](monster-rolodex-ztm/public/assets/full-screen.jpg)
 ### Fixed header
-![Image of fixed header](monster-rolodex-ztm/assets/fixed-header.jpg)
+![Image of fixed header](monster-rolodex-ztm/public/assets/fixed-header.jpg)
 ### Search function
-![Image of search](monster-rolodex-ztm/assets/search.jpg)
+![Image of search](monster-rolodex-ztm/public/assets/search.jpg)
