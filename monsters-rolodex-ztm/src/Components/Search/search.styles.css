@@ -1,10 +1,13 @@
 .search-box {
-    border: 2px solid rgb(53, 0, 88);
+    border: 4px solid rgb(83, 223, 241);
     border-radius: 10px;
-    box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.582);
     outline: none;
-    padding: 1rem;
-    max-width: 15rem;
-    line-height: 1rem;
-    margin: 3rem 0 3rem 0;
+    max-width: 30vw;
+    line-height: .5rem;
+    font-size: 3rem;
+    font-family: 'Bigelow Rules', cursive;
+}
+
+.search-box:hover {
+    box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.582);
 }
